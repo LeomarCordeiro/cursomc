@@ -1,0 +1,35 @@
+[33mcommit 08a8601c62d322d37c2087a1a9650486a9eceb70[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Leomar Cordeiro <leomardanca@gmail.com>
+Date:   Sun Feb 10 11:03:20 2019 -0200
+
+    Implementandp dependencias entre Produto e Categoria
+
+[33mcommit b54103172e9d790a2f8d9000a40040beaec7bd97[m
+Author: Leomar Cordeiro <leomardanca@gmail.com>
+Date:   Sun Feb 10 10:22:47 2019 -0200
+
+    Operações de Instanciação
+
+[33mcommit c98faa4dc57c3c30b6c69089a3dd324cd208c897[m
+Author: Leomar Cordeiro <leomardanca@gmail.com>
+Date:   Sun Feb 10 09:53:02 2019 -0200
+
+    Implementação das camadas de Resource, Repositories, services do domínio Categoria.
+
+[33mcommit fb1cffac67b9611c2e171b570424ef19c9d396a7[m
+Author: Leomar Cordeiro <leomardanca@gmail.com>
+Date:   Sat Feb 9 22:55:23 2019 -0200
+
+    Persistencia Banco Teste
+
+[33mcommit a1bbd180d341721333c1ed0e6851ec792a31033b[m
+Author: Leomar Cordeiro <leomardanca@gmail.com>
+Date:   Sat Feb 9 21:23:24 2019 -0200
+
+    Classe Categoria
+
+[33mcommit fa0706d21074163c2f9917fdbcf7806923160c51[m
+Author: Leomar Cordeiro <leomardanca@gmail.com>
+Date:   Thu Feb 7 20:45:25 2019 -0200
+
+    criação do projeto
